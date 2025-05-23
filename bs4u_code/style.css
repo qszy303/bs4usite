@@ -588,7 +588,7 @@
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 110vh;
+    max-height: 130vh;
   }
   
   .restorative{
@@ -598,7 +598,7 @@
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 130vh;
+    max-height: 160vh;
   }
   
   .pediatric h3, .cosmetic h3, .restorative h3{
