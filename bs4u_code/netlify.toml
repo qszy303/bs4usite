@@ -1,1 +1,11 @@
+[[redirects]]
+  from = "http://www.bestsmile4u.com/*"
+  to = "https://bestsmile4u.com/:splat"
+  status = 301
+  force = true
 
+[[redirects]]
+  from = "https://www.bestsmile4u.com/*"
+  to = "https://bestsmile4u.com/:splat"
+  status = 301
+  force = true
